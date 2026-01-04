@@ -31,12 +31,16 @@ While I didn't have any updates available at the time of doing this lab, I found
 - Definition Updates
 - Other Updates
 <br>
-The latest Quality Update installed was the 26200.7462 OS build of Windows 11
+The latest Quality Update installed was:
+- 26200.7462 OS build of Windows 11
 <br>
-The latest Driver Update installed was the Microsoft Corporation Driver Update (10.0.26100.6700) (Installed on 12/12/2025)
+The latest Driver Update installed was:
+- Microsoft Corporation Driver Update (10.0.26100.6700) (Installed on 12/12/2025)
 <br>
-The latest Definition Update installed was the Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.503.0) - Current Channel (Broad) (Installed on 1/4/2026)
+The latest Definition Update installed was:
+- Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.443.503.0) - Current Channel (Broad) (Installed on 1/4/2026)
 <br>
-The latest Other Update installed was the Windows Malicious Software Removal Tool x64 - v5.138 (KB890830)
+The latest Other Update installed was: 
+- Windows Malicious Software Removal Tool x64 - v5.138 (KB890830)
 <br>
 I will also note that whenever I update my PC, it will typically take anywhere from 3-30 minutes depending on how many updates are available. Since I update my PC regularly as updates are released, most of my updates are on the shorter side of how long they take.
